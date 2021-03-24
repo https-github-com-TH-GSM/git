@@ -1,0 +1,1 @@
+[![Docker](https://github.com/https-github-com-TH-GSM/git/actions/workflows/docker-publish.yml/badge.svg?branch=main&event=workflow_dispatch)](https://github.com/https-github-com-TH-GSM/git/actions/workflows/docker-publish.yml)
